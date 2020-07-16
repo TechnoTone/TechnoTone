@@ -8,6 +8,8 @@ I enjoy listening to podcasts, attending tech meetups, and learning new skills.
 
 My background is mostly with Microsoft and .Net but I have recently discovered the joys of functional programming and am now an aspiring functional programmer. Working with Elm in my current job but also spending time looking at Haskell, Rust, Erlang, Scala, etc. 
 
+Recently started coaching/mentoring at [codebar.io](https://codebar.io/) and [Exercism](https://exercism.io/).
+
 Currently open for new opportunities.
 
 You can find me on: 
